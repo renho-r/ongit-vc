@@ -1,0 +1,22 @@
+﻿Build started 2015/4/10 13:01:08.
+     1>Project "E:\renho\workspace\ongit-vc\renho\renho\renho.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\renho.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt renho.cpp renhoDlg.cpp
+         renhoDlg.cpp
+         Generating Code...
+         Compiling...
+         renho.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0409" /IDebug\ /nologo /fo"Debug\renho.res" renho.rc 
+       Link:
+         E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\renho\workspace\ongit-vc\renho\Debug\renho.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\renho\workspace\ongit-vc\renho\Debug\renho.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\renho\workspace\ongit-vc\renho\Debug\renho.lib" /MACHINE:X86 Debug\renho.res
+         Debug\renho.obj
+         Debug\renhoDlg.obj
+         Debug\stdafx.obj
+         renho.vcxproj -> E:\renho\workspace\ongit-vc\renho\Debug\renho.exe
+     1>Done Building Project "E:\renho\workspace\ongit-vc\renho\renho\renho.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.31
